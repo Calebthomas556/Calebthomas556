@@ -8,6 +8,6 @@ I'm a data enthusiast interested in sports analytics, fitness, and creative proj
 **Current focus:** Building real-world analytics projects and dashboards.
 
 ## Selected Projects
-- [Spotify Streaming Analytics](#) – Exploratory analysis & visualizations
+- [Spotify Streaming Analytics](https://github.com/Calebthomas556/spotify-analytics-excel.git) – Exploratory analysis & visualizations
 - [Netflix Titles EDA](https://github.com/Calebthomas556/netflix-data-analysis.git) – Python, Pandas, and data visualization
 - [IMU Bowling & Billiards Reservation System](#) – Full-stack Flask/MySQL project
