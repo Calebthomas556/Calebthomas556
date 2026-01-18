@@ -10,4 +10,4 @@ I'm a data enthusiast interested in sports analytics, fitness, and creative proj
 ## Selected Projects
 - [Spotify Streaming Analytics](https://github.com/Calebthomas556/spotify-analytics-excel.git) – Exploratory analysis & visualizations
 - [Netflix Titles EDA](https://github.com/Calebthomas556/netflix-data-analysis.git) – Python, Pandas, and data visualization
-- [IMU Bowling & Billiards Reservation System](#) – Full-stack Flask/MySQL project
+- [James Harden 2014-2015 Season Analysis](https://github.com/Calebthomas556/SQL_Basketball_Project.git) – SQL Analysis
